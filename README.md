@@ -1,4 +1,11 @@
-## Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+[![Telegram](https://img.shields.io/badge/vadkorn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadkorn)
+[![LinkedIn](https://img.shields.io/badge/vadkorn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadkorn/)
+[![Gmail](https://img.shields.io/badge/vadkorn1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadkorn1@gmail.com)
+
 
 <!--
 **MekaHuK/MekaHuK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
