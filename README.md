@@ -1,10 +1,38 @@
-<h2>Hi, I'm Vadim!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Vadim!</h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Telegram](https://img.shields.io/badge/vadkorn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadkorn)
 [![LinkedIn](https://img.shields.io/badge/vadkorn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadkorn/)
 [![Gmail](https://img.shields.io/badge/vadkorn1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadkorn1@gmail.com)
+
+- :man_technologist: I'm backend developer with 3+ years of experience
+- :nerd_face: Using **Java** and **Kotlin**
+- :rocket: interested in **Web 3.0** and **Blockchain**
+- :man_student: Bachelor's degree in Information and Communication Technologies from the MTUCI University
+
+## :hammer_and_wrench: My stack 
+- **Java**
+- **Kotlin**
+- **Spring**
+- **Spring Boot**
+- **Hibernate**
+- **JOOQ**
+- **Maven**
+- **Gradle**
+- **Lombock**
+- **JUnit**
+- **PostgreSQL**
+- **MongoDB**
+- **Redis**
+- **Docker/Docker Compose**
+- **Kafka**
+- **Elasticsearch**
+- **AWS S3**
+- **Git**
+- **HTML/CSS/JS**
+
+
 
 
 <!--
