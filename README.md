@@ -23,6 +23,7 @@
 - **Lombock**
 - **JUnit**
 - **PostgreSQL**
+- **Flyway**
 - **MongoDB**
 - **Redis**
 - **Docker/Docker Compose**
