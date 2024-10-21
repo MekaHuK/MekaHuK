@@ -10,6 +10,7 @@
 - :nerd_face: Using **Java** and **Kotlin**
 - :rocket: interested in **Web 3.0** and **Blockchain**
 - :man_student: Bachelor's degree in Information and Communication Technologies from the MTUCI University
+- :penguin: Linux user
 
 ## :hammer_and_wrench: My stack 
 - **Java**
